@@ -1,5 +1,10 @@
 # 💫 About Me:
 I'm a student<br>
+- Skilled in solving Data Structures and Algorithms (DSA) problems using various algorithms and proficient in Machine Learning and Deep Learning with Python. Experienced in using data visualization tools and developing full-stack web applications integrated with databases. Adept at version control and deployment, with a strong focus on delivering efficient and scalable solutions.
+
+- Throughout my learning, I have developed different types of applications and projects with various technology stacks like MERN Stack, Machine Learning, Deep Learning, React, Flask, etc. This experience has honed my skills in both frontend and backend development.
+
+- When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through tech blogs and community meetups. I'm always excited to take on new challenges and push the boundaries of what's possible in web development.
 
 
 ## 🌐 Socials:
